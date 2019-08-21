@@ -10,7 +10,7 @@
 4. Select start Apache
 5. Select start MySQL   
 6. Select Admin from MySQL
-7. phpMyAdmin - Username: dane Password: 123456
+7. phpMyAdmin | Username: dane | Password: 123456
 8. Run application "localhost/CoGrammer/"
 
 ### Preview Image:
