@@ -6,7 +6,7 @@
 
 1. Download and Install XAMPP.
 2. Copy working folder "CoGrammer" into installed direcctory: xampp > htdcos > CoGrammer
-3. Start XAMPP
+3. Start XAMPP Control Panel
 4. Select start Apache
 5. Select start MySQL   
 6. Select Admin from MySQL
